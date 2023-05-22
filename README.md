@@ -23,15 +23,6 @@ This Project is made Using Java Swing for Engineering students, to save their ti
 **IDE Used**
 - **Eclipse** 
 
-## Team Members
-
-| Name      | Description                |
-| :-------- | :------------------------- |
-| **Shubham More** | `moreshubham@kccemsr.edu.in ` |
-| **Omkar Mandavkar** | `mandavkaromkar@kccemsr.edu.in ` |
-| **Durgesh Kolhe** | `kolhedurgesh@kccemsr.edu.in ` |
-| **Sameer Metkar** | `metkarsameer@kccemsr.edu.in ` |
-
 
 ## Acknowledgements
 
